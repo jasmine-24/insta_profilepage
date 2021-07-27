@@ -1,0 +1,67 @@
+.dp{
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+img{
+  border-radius: 50%;
+  height: 160px;
+  width: 185px;
+}
+#Settings{
+  width:60px;
+  height:50px;
+}
+#navbar{
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+}
+#navbar a{
+  display: inline-block;
+  float: right;
+  margin: 20px;
+  color: black;
+  text-align: center;
+  cell-padding: 35px 30px;
+  font-size: 30px;
+  margin-right: 60px;
+}
+#edit-btn{
+  margin: 30px;
+  font-size: 20px;
+}
+.profile{
+  text-align: center;
+}
+.profile li{
+  font-size: 30px;
+  text-align: center;
+  display: inline;
+  cell-padding: 15px 25px;
+  margin: 15px;
+}
+#name{
+  text-align: left;
+  font-family: sans-serif;
+}
+#bio{
+  text-align: left;
+}
+#flw-btn{
+  font-size: 30px;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+#msg{
+  font-size: 30px;
+  margin-left:10px;
+}
+.gallery img{
+  border-radius: 0%;
+  display: inline-block;
+  margin: 20px;
+  width: auto;
+  height: 350px;
+  position: relative;
+}
