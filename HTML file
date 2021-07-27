@@ -1,0 +1,35 @@
+<html> 
+  <header> 
+  <div>
+    <nav id=navbar>
+      <a id="username" > jasmine_ </h>
+      <button id="edit-btn">Edit Profile</button>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeicXNOaXPUJJqjiDFTtcSjLzpfKaXmbgButpl6blFtuJIOMYkU7KFB1GwVnwcmwhekQs&usqp=CAU" id="Settings" a href="#set">
+    </nav>
+    <img src="https://i.pinimg.com/originals/42/e9/8b/42e98b550bb08401661d966084289a03.jpg" id="dp" alt="profile pic">
+    </div>
+    <div class="profile">
+      <ul>
+        <li> <b>6</b> posts </li>
+        <li> <b>105 </b>Followers </li>
+        <li> <b>30 </b>following</li>
+      </ul>
+      <h2 id="name"><b>JASMINE</b></h2>
+      <h2 id="bio"> What you are seeking is seeking you.</h2>
+      <div class="button">
+      <button id="flw-btn">Follow</button>
+      <button id="msg">Message</button>
+    </div>
+    </div>
+    </header>
+  <main>
+  <div class="gallery">
+    <img src="https://images.unsplash.com/photo-1511765224389-37f0e77cf0eb?w=500&h=500&fit=crop" >
+    <img src="https://images.unsplash.com/photo-1497445462247-4330a224fdb1?w=500&h=500&fit=crop">
+    <img src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=500&h=500&fit=crop">
+    <img src="https://images.unsplash.com/photo-1502630859934-b3b41d18206c?w=500&h=500&fit=crop">
+    <img src="https://images.unsplash.com/photo-1498471731312-b6d2b8280c61?w=500&h=500&fit=crop">
+    <img src="https://images.unsplash.com/photo-1515023115689-589c33041d3c?w=500&h=500&fit=crop">
+    </div>
+  </main>
+</html>
